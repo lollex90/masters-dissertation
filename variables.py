@@ -1,0 +1,31 @@
+region_names = ['Kherson Oblast',
+ 'Volyn Oblast',
+ 'Rivne Oblast',
+ 'Zhytomyr Oblast',
+ 'Kyiv Oblast',
+ 'Chernihiv Oblast',
+ 'Sumy Oblast',
+ 'Kharkiv Oblast',
+ 'Luhansk Oblast',
+ 'Donetsk Oblast',
+ 'Zaporizhia Oblast',
+ 'Lviv Oblast',
+ 'Ivano-Frankivsk Oblast',
+ 'Zakarpattia Oblast',
+ 'Ternopil Oblast',
+ 'Chernivtsi Oblast',
+ 'Odessa Oblast',
+ 'Mykolaiv Oblast',
+ 'Autonomous Republic of Crimea',
+ 'Vinnytsia Oblast',
+ 'Khmelnytskyi Oblast',
+ 'Cherkasy Oblast',
+ 'Poltava Oblast',
+ 'Dnipropetrovsk Oblast',
+ 'Kirovohrad Oblast',
+ 'Kyiv',
+ 'Sevastopol']
+
+years = ["2012", "2013", "2014", "2015", "2016", "2017", "2018", "2019", "2020", "2021", "2022", "2023"]
+
+composites = ["AllAngle_Composite_Snow_Covered", "AllAngle_Composite_Snow_Free"]
